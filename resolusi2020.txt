@@ -1,3 +1,5 @@
 1. Belajar Fundamental Umum
 2. Belajar HTML
 3. Belajar CSS
+4. Belajar Javascript
+5. Belajar Java
